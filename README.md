@@ -1,5 +1,5 @@
 # DataScience-MachineLearning-Projects
-This repository consists of my personal practise projects on Data Science and Machine Learning.
+This repository consists of my personal projects on Data Science and Machine Learning.
 
 <b>1. Breast Cancer Detection</b> 
 
