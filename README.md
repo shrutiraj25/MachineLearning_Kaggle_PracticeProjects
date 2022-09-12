@@ -43,7 +43,7 @@ Elbow method was used to find optimal number of clusters
 
 <b>4. E-Sign of load based on financial history </b> 
 
-Electronic signatures aren’t exactly a novelty. They have been around since the American Civil War, during which contracts were signed through Morse. In a modern setting, an e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign is meant to complete transactions, loops, and agreements electronically.
+An e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign is meant to complete transactions, loops, and agreements electronically.
 
 Dataset Link: https://www.kaggle.com/arjunbhasin2013/ccdata?select=CC+GENERAL.csv
 
