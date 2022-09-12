@@ -1,7 +1,8 @@
 # DataScience-MachineLearning-Projects
 This repository consists of my personal practise projects on Data Science and Machine Learning.
 
-<b>Breast Cancer Detection</b> - Predicting whether the cancer is benign or malignant
+<b>Breast Cancer Detection</b> 
+Predicting whether the cancer is benign or malignant
 
 Dataset Link: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
@@ -12,7 +13,8 @@ An accuracy of 98.24 % was achieved in our final model, Linear Regression after 
 Final Output: The cancer is malignant
 
 
-<b>Credit Card Fraud Detection</b> - Anonymized credit card transactions labeled as fraudulent or genuine
+<b>Credit Card Fraud Detection</b> 
+Anonymized credit card transactions labeled as fraudulent or genuine
 
 Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv
 
@@ -24,7 +26,8 @@ Final Output: The above dataset is not a fraudulent transaction
 
 
 
-<b>Customer Segmentation </b> - This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+<b>Customer Segmentation </b> 
+This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
 Dataset Link: https://www.kaggle.com/arjunbhasin2013/ccdata?select=CC+GENERAL.csv
 
@@ -35,7 +38,8 @@ Elbow method was used to find optimal number of clusters
 
 
 
-<b>E-Sign of load based on financial history </b> : Electronic signatures aren’t exactly a novelty. They have been around since the American Civil War, during which contracts were signed through Morse. In a modern setting, an e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign is meant to complete transactions, loops, and agreements electronically.
+<b>E-Sign of load based on financial history </b> 
+Electronic signatures aren’t exactly a novelty. They have been around since the American Civil War, during which contracts were signed through Morse. In a modern setting, an e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign is meant to complete transactions, loops, and agreements electronically.
 
 Dataset Link: https://www.kaggle.com/arjunbhasin2013/ccdata?select=CC+GENERAL.csv
 
@@ -47,7 +51,8 @@ Final Output: The  customer with this dataset will not e-sign
 
 
 
-<b>Medical insurance premium prediction</b>-Predicting the insurance cost
+<b>Medical insurance premium prediction</b>
+Predicting the insurance cost
 
 Dataset Link: https://www.kaggle.com/mirichoi0218/insurance?select=insurance.csv
 
